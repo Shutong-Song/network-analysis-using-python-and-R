@@ -16,6 +16,7 @@
     4. use gexf_to_dataframe() function in Gephi_to_dataframe.py to convert gexf file to a dataframe 
     5. plot the network nicely using the coordinates extracted from the processed_xxx.gexf file using network_plot() function in Gephi_to_dataframe.py 
     ![network plot in Python networkx](dataset/network_nx_plot.png)
+    6. see example ![here](network_analysis_Gephi_Tableau_example.ipynb)
 
 
 3. Plot large network graph using Tableau
@@ -32,3 +33,4 @@
     ![step6](dataset/tableau_network_steps/plot_tableau_step6.PNG)
     7. fine-tuning the edge thickness, color, and nodes thickness, color, etc.
     ![step7](dataset/tableau_network_steps/plot_tableau_step7.PNG)
+    8. see examples ![here](network_analysis_Gephi_Tableau_example.ipynb)
