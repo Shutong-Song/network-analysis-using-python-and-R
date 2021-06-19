@@ -33,4 +33,3 @@
     ![step6](dataset/tableau_network_steps/plot_tableau_step6.PNG)
     7. fine-tuning the edge thickness, color, and nodes thickness, color, etc.
     ![step7](dataset/tableau_network_steps/plot_tableau_step7.PNG)
-    8. see examples [here](network_analysis_Gephi_Tableau_example.ipynb)
