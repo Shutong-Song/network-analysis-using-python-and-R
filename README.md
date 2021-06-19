@@ -18,7 +18,7 @@
     ![network plot in Python networkx](dataset/network_nx_plot.png)
 
 
-3. Plot large size network graph using Tableau
+3. Plot large network graph using Tableau
     1. create the "df_tableau_network.csv" using functions in script Tableau_file.py (see details inside the .py file)
     1. use Tableau to read in the saved csv file "df_tableau_network.csv" as txt file, select an empty sheet in Tableau
     2. drag X into Columns, drag Y twice into Rows, set all X and Y into dimension data types
